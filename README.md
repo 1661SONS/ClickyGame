@@ -3,4 +3,4 @@ ClickyGame
 
 ## Screenshots
 
-![Overview](https://github.com/radhikabgupta/MongoScraper/blob/master/public/assets/img/sp-01.jpg)
+![Overview](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/app_ss_01.jpg)
