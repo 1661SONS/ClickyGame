@@ -4,6 +4,12 @@ This application keeps track of the user's score. The user's score should be inc
 - Every time an image is clicked, the images shuffle themselves in a random order.
 - Once the user's score is reset after an incorrect guess, the game should restart.
 
+##vTechnologies used
+- React
+- Bootstrap
+- CSS
+- ES6
+
 ## Screenshots
 
 ![Overview](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/app_ss_01.jpg)
