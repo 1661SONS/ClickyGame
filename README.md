@@ -4,7 +4,7 @@ This application keeps track of the user's score. The user's score should be inc
 - Every time an image is clicked, the images shuffle themselves in a random order.
 - Once the user's score is reset after an incorrect guess, the game should restart.
 
-##vTechnologies used
+## Technologies used
 - React
 - Bootstrap
 - CSS
