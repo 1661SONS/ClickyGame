@@ -18,4 +18,4 @@ This application keeps track of the user's score. The user's score should be inc
 
 ![Test](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/app_ss_02.jpg)
 
-![Overview](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/app_ss_03.jpg)
+![](https://raw.githubusercontent.com/radhikabgupta/ReadMeInfoProj2/master/assets/app_ss_03.jpg)
