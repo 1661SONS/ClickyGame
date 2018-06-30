@@ -14,7 +14,7 @@ This React application keeps track of the user's score. The user's score should 
 - JavaScript
 - JSX
 
-## Node dependencies:
+## Node dependencies
 - create-react-app
 - react
 - react-dom
